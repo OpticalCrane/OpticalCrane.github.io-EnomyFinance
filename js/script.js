@@ -1,5 +1,5 @@
-var select = document.querySelectorAll('.currency'),
-var input_currency = document.getElementById('input_currency'),
+var select = document.querySelectorAll('.currency');
+var input_currency = document.getElementById('input_currency');
 var output_currency = document.getElementById('output_currency');
 
 //new api address const host = 'api.frankfurter.app';
