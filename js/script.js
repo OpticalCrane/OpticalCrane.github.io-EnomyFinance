@@ -38,6 +38,7 @@ var output_currency = document.getElementById('output_currency');
 
 const API = 'https://api.frankfurter.dev/v2';
 
+console.log("script.js has loaded");
 // -----------------------------
 // GET THE LIST OF CURRENCIES
 // -----------------------------
@@ -45,6 +46,7 @@ const API = 'https://api.frankfurter.dev/v2';
 fetch(`${API}/currencies`)
     .then(response => response.json())
     .then(data => {
+        console.log("Currencies received:", data);
 
         data.forEach(currency => {
 
