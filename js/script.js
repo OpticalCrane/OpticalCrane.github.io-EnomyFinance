@@ -33,7 +33,7 @@ fetch(`https://${host}/currencies`)
 
         output_currency.value = Object.values(val.rates)[0];
         console.log(Object.values(val.rates)[0]);
-    });
+    })
     .catch((error) => {
         console.log("Error converting currency:", error);
         });
