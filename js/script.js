@@ -3,9 +3,9 @@ var input_currency = document.getElementById('input_currency');
 var output_currency = document.getElementById('output_currency');
 
 //Old API ADDRESS 
-const host = 'api.frankfurter.app';
-// API ADDRESS
-//const host = 'api.frankfurter.dev/v1';
+//const host = 'api.frankfurter.app';
+// New API ADDRESS
+const host = 'api.frankfurter.dev/v1';
 
 
 // --------------------------------

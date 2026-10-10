@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +38,7 @@
               "RelativeToolTip": "currency.html",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-10-04T12:47:52.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:47:52.083Z"
             },
             {
               "$type": "Document",
@@ -55,8 +50,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-10-04T12:40:37.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:40:37.565Z"
             },
             {
               "$type": "Document",
@@ -66,7 +60,7 @@
               "RelativeDocumentMoniker": "js\\script.js",
               "ToolTip": "C:\\Users\\CADI\\source\\repos\\OpticalCrane\\OpticalCrane.github.io-EnomyFinance\\js\\script.js",
               "RelativeToolTip": "js\\script.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-04T12:39:20.245Z",
               "EditorCaption": ""
@@ -81,8 +75,7 @@
               "RelativeToolTip": "js\\app.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-04T12:39:09.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:39:09.143Z"
             }
           ]
         }
